@@ -63,25 +63,17 @@ The system includes:
 ---
 
 ## Tabulation
+<img width="1600" height="1512" alt="image" src="https://github.com/user-attachments/assets/b2cf63fd-9bad-4f89-a31f-cdfea27e3d56" />
 
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
 
 ## Graphs
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 105840" src="https://github.com/user-attachments/assets/c71346fe-f7c7-4abf-a574-e187d0de0545" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
 ## RESULT
+```
+The performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) are analyzed and also changes in the eye diagram with increasing fiber length using optiperformer is observed.
+```
 
-*(Summarize key findings from simulation and analysis)*
