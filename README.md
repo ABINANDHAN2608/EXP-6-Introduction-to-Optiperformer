@@ -1,5 +1,4 @@
-
-Exp 6 Simulation of Optical Communication System
+# Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Aim
 To analyze and evaluate the performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) and to observe changes in the eye diagram with increasing fiber length using optiperformer.
@@ -63,7 +62,8 @@ The system includes:
 ---
 
 ## Tabulation
-<img width="1600" height="1512" alt="image" src="https://github.com/user-attachments/assets/b2cf63fd-9bad-4f89-a31f-cdfea27e3d56" />
+![6](https://github.com/user-attachments/assets/af636bb6-5e13-4f84-9967-63291a29b7c8)
+
 
 
 ## Graphs
