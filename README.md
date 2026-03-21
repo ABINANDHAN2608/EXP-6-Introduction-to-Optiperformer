@@ -73,7 +73,7 @@ The system includes:
 ---
 
 ## RESULT
-```
+
 The performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) are analyzed and also changes in the eye diagram with increasing fiber length using optiperformer is observed.
-```
+
 
